@@ -1,5 +1,5 @@
 Olá! 👋 Eu sou o Gabriel Henrique
-Desenvolvedor de Sistemas
+Desenvolvedor Front-End
 
 Tenho 17 anos e sou natural de Mato Grosso. Atualmente, curso o ensino médio na escola militar Tiradentes com o curso técnico de Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre buscando aprender mais.
 
