@@ -9,7 +9,7 @@ Tenho 17 anos e sou natural de Mato Grosso. Atualmente, curso o ensino médio na
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px;"> <a href="https://wa.me/5565984529590" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> <a href="https://www.instagram.com/2j_henrique7" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://discord.com/users/henrique.souza54" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> <a href="mailto:henrique.souzatt54@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </div>
 📊 Estatísticas do GitHub
 <div style="display: flex; gap: 20px; margin-top: 20px; flex-wrap: wrap;"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-HRsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-HRsouza&layout=compact&langs_count=7&theme=radical"/> </div>
-https://github.com/Gabriel-HRsouza/Gabriel-HRsouza/blob/output/github-contribution-grid-snake.svg
+
 
 ⭐️ From Gabriel-HRsouza
 
