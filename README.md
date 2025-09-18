@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Sistemas`**
 
-Me chamo Gabriel Henrique, tenho 17 anos e sou natural do Mato Grosso. Atualmente, curso o ensino médio na escola militar Tiradentes. com o curso técnico de Desenvolvimento de Sistemas. Atualmente estou no curso intermediario de Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
+Me chamo Gabriel Henrique, tenho 17 anos e sou natural de Mato Grosso. Atualmente, curso o ensino médio na escola militar Tiradentes. com o curso técnico de Desenvolvimento de Sistemas. Atualmente estou no curso intermediario de Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="">
