@@ -11,5 +11,3 @@ Tenho 17 anos e sou natural de Mato Grosso. Atualmente, curso o ensino médio na
 <div style="display: flex; gap: 20px; margin-top: 20px; flex-wrap: wrap;"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-HRsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-HRsouza&layout=compact&langs_count=7&theme=radical"/> </div>
 
 
-⭐️ From Gabriel-HRsouza
-
