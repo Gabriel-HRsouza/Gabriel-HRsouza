@@ -22,7 +22,7 @@ Me chamo Gabriel Henrique, tenho 17 anos e sou natural de Mato Grosso. Atualment
 
 </p>
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
