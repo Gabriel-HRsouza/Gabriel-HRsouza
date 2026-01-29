@@ -2,9 +2,9 @@
 ### 💻 Desenvolvedor Front-End
 
 🚀 Apaixonado por tecnologia, interfaces modernas e experiências digitais bem construídas.  
-🎓 Tenho **18 anos**, sou de **Mato Grosso** e atualmente curso o **Ensino Médio** na **Escola Militar Tiradentes**, junto ao **Curso Técnico em Desenvolvimento de Sistemas**.
+🎓 Tenho **18 anos**, sou de **Mato Grosso** e atualmente curso no **Ensino Médio** na **Escola Militar Tiradentes**, junto ao **Curso Técnico em Desenvolvimento de Sistemas**.
 
-Meu foco principal é **desenvolvimento Front-End**, unindo **design**, **usabilidade** e **performance** para criar aplicações modernas e funcionais.
+Meu foco principal é **desenvolvimento Full-Stack**, unindo **design**, **usabilidade** e **performance** para criar aplicações modernas e funcionais.
 
 ---
 
