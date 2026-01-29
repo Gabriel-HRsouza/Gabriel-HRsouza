@@ -1,43 +1,61 @@
-Olá! 👋 Eu sou o Gabriel Henrique  
-Desenvolvedor Front-End  
+# 👋 Olá! Eu sou o **Gabriel Henrique**
+### 💻 Desenvolvedor Front-End
 
-Tenho 18 anos e sou natural de Mato Grosso. Atualmente, curso o ensino médio na escola militar Tiradentes com o curso técnico de Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e criação de interfaces, com foco especial em desenvolvimento front-end.  
+🚀 Apaixonado por tecnologia, interfaces modernas e experiências digitais bem construídas.  
+🎓 Tenho **18 anos**, sou de **Mato Grosso** e atualmente curso o **Ensino Médio** na **Escola Militar Tiradentes**, junto ao **Curso Técnico em Desenvolvimento de Sistemas**.
 
-🎨 Stack Front-End  
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;"> 
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
-  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
-  <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-  <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
-</div>  
+Meu foco principal é **desenvolvimento Front-End**, unindo **design**, **usabilidade** e **performance** para criar aplicações modernas e funcionais.
 
-📞 Contato  
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px;"> 
-  <a href="https://www.instagram.com/2j_henrique7" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
-  </a> 
-  
-  <a href="https://discord.com/users/henrique.souza54" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
-  </a> 
-  
-  <a href="mailto:henrique.souzatt54@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/gabriel-hrsouza" target="_blank"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-  </a> 
-</div>  
+---
 
-📊 Estatísticas do GitHub  
-<div style="display: flex; gap: 20px; margin-top: 20px; flex-wrap: wrap;"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-HRsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-HRsouza&layout=compact&langs_count=7&theme=radical"/> 
+## 🚀 Tecnologias & Ferramentas
+
+### 🎨 Front-End Stack
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img title="HTML5" alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img title="CSS3" alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img title="JavaScript" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img title="TypeScript" alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img title="React" alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img title="Bootstrap" alt="Bootstrap" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img title="Git" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img title="Figma" alt="Figma" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </div>
 
+---
 
+## 📬 Vamos nos conectar?
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+<a href="https://www.instagram.com/2j_henrique7" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/henrique.souza54" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:henrique.souzatt54@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-hrsouza" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-HRsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-HRsouza&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+## ✨ Objetivo
+📌 Evoluir constantemente como desenvolvedor, criar projetos impactantes e conquistar minha primeira oportunidade profissional na área de tecnologia.
