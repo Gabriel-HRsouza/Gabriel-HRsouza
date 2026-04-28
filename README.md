@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/GBHSIww.gif" width="75%" style="border-radius: 8px;" />
+  <img src="https://i.imgur.com/GBHSIww.gif" width="50%" style="border-radius: 8px;" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED...;USER:+GABRIEL+HENRIQUE;TARGET:+CYBERSECURITY+SPECIALIST;LOADING+MODULES..." />
 </div>
