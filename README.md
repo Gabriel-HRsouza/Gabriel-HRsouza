@@ -7,15 +7,12 @@
 
 ---
 
-# 🖥️ $ whoami
+## 🖥️ $ whoami
 
-```bash
-Name........: Gabriel Henrique
-Location....: Mato Grosso, Brazil
-Role........: Backend Developer & Cybersecurity Student
-Focus.......: DevSecOps | Cybersecurity | Backend Development
-```
-
+> *Gabriel Henrique*  
+> 🛡️ Aspirante a Especialista em Cibersegurança | Desenvolvedor Backend  
+> 📍 Mato Grosso, Brasil  
+> 🎯 Foco: DevSecOps & Cybersecurity
 🛡️ Atualmente estudo desenvolvimento backend, APIs, autenticação, segurança de aplicações e boas práticas de desenvolvimento.
 
 🚀 Busco evoluir constantemente através da criação de projetos práticos e estudos voltados para segurança ofensiva e defensiva.
